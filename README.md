@@ -56,10 +56,5 @@ Once executed, the script will display detected objects with bounding boxes and 
 
 ---
 
-## 📜 License
-This project is **open-source** and available under the **MIT License**.
-
----
-
 🔥 **Happy Coding & Object Detecting!** 🚀
 
