@@ -51,10 +51,6 @@ The project utilizes **YOLOv7**, converted into the **ONNX format** for efficien
 ## 📊 Output
 Once executed, the script will display detected objects with bounding boxes and class labels in a **pop-up window**.
 
-### 🖼 Example Detection Output
-![Detection Example](path_to_your_image.jpg)
-
----
 
 🔥 **Happy Coding & Object Detecting!** 🚀
 
